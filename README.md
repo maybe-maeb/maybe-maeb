@@ -10,7 +10,7 @@ Computers should be used to make the world a better place. Whatever I can do to 
 Regarding video games, I believe they're one of (if not THE) greatest mediums to tell stories and convey messages. It frustrates me to see this underutilized by developers, and want to work on projects where the games I make (or help make) have a lasting impact on the people who play them.
 
 ### 🔭 I'm currently working on
-- Project Toph (working title): A multiplayer first-person horror game focused on sound, currently being solo-developed in Unity
+- Manna Sonus: A multiplayer first-person horror game focused on sound, currently being solo-developed in Unity
 - A Bachelor's Degree in [Games, Interactive Media and Mobile Technology](https://www.boisestate.edu/gimm/) with a minor in Creative Writing from Boise State University.
 
 ### ⌨️ Languages/Frameworks I know
