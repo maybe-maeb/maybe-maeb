@@ -1,7 +1,11 @@
 ### Mae Bridgeman -- @maybe-maeb
 
+[Portfolio Site](https://maebridgeman.com)
+
 👋 Hi! I'm Mae Bridgeman.
-I'm currently a student at Boise State University, majoring in Games, Interactive Media and Mobile Technology with a minor in Creative Writing. I am expected to graduate summa cum lade in May 2026. I love software development, especially video games and entertainment. I have several games under my belt already, and am currently working on my largest project yet, a multiplayer first-person horror game almost entirely based on sound.
+I recently graduated Summa Cum Laude from Boise State University with a Bachelors of Science in Games, Interactive Media and Mobile Technology and a minor in Creative Writing. I love software development, especially video games and entertainment. I have several games under my belt already, and am currently working on my largest project yet, a multiplayer first-person horror game almost entirely based on sound.
+
+I'm currently searching for work in the video games industry, particularly in level design roles. You can find the levels I've created [here](https://maebridgeman.com/level-design).
 
 ### 🧠 My philosophy
 
@@ -11,7 +15,6 @@ Regarding video games, I believe they're one of (if not THE) greatest mediums to
 
 ### 🔭 I'm currently working on
 - Manna Sonus: A multiplayer first-person horror game focused on sound, currently being solo-developed in Unity
-- A Bachelor's Degree in [Games, Interactive Media and Mobile Technology](https://www.boisestate.edu/gimm/) with a minor in Creative Writing from Boise State University.
 
 ### ⌨️ Languages/Frameworks I know
 - C#
