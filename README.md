@@ -35,7 +35,7 @@ Regarding video games, I believe they're one of (if not THE) greatest mediums to
 
 ### ✏️ Contact me!
 I would love to hear from you! You can reach me through one of the following:
-- [My portfolio site](https://maebridgeman.com/portfolio)
+- [My portfolio site](https://maebridgeman.com)
 - [LinkedIn](https://www.linkedin.com/in/maebridgeman/)
 
 A copy of my resume is available upon request.
